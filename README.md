@@ -4,6 +4,9 @@ https://www.youtube.com/watch?v=bDDuLuCqHg0
 
 https://github.com/academind/nextjs-13-first-look-demo.git
 
+https://raw.githubusercontent.com/RodrigoMvs123/NextJS-13---First-Look-at-the-app-Folder-Complete-Demo/main/README.md
+
+
 
 https://nextjs.org/docs/getting-started
 
